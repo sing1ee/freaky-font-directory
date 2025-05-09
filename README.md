@@ -6,27 +6,13 @@ A curated collection of interesting and unique font tool websites. These tools h
 
 ### [I AM MUSIC Font](https://iammusicfont.com/) 🎵
 
-A font generator inspired by Playboi Carti's 2025 album "MUSIC" cover design. This tool creates unique double-layer font effects, combining a bold background layer with a slender foreground layer for striking visual contrast.
-
 <img src="images/iammusic-font.png" alt="I AM MUSIC Font Preview" width="600">
 
-Key Features:
-- Customizable font size and spacing
-- Export as PNG with transparent background
-- Perfect for music-related designs, album covers, and creative projects
-- Free for commercial use
 
 ### [Papyrus Font Designer](https://papyrusfont.com) 📜
 
-An elegant Papyrus font design tool that lets you create text designs with a unique handwritten texture. This tool perfectly captures the essence of the Papyrus font, ideal for projects requiring elegance and artistic flair.
-
 <img src="images/papyrus-font.png" alt="Papyrus Font Preview" width="600">
 
-Key Features:
-- Simulates ancient papyrus writing effects
-- Rich customization options (font color, size, background, etc.)
-- Export as PNG format
-- Perfect for invitations, artistic quotes, and creative headers
 
 ## Contributing
 
